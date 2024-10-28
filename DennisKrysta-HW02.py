@@ -3,10 +3,7 @@
 # 28OCT2024
 # HW 02
 # Lab Section: 12
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Worked with my tutor to fix error
 
 m_code = {
 "A" : ".-" , "B":"-...", "C":"-.-.", "D":"-..", "E":".","F":"..-.","G":"--.",
